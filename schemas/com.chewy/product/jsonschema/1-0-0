@@ -75,7 +75,7 @@
       "type": "string"
     },
     "position": {
-      "type": ["number","string"]
+      "type": "number"
     },
     "prescription-item": {
       "type": "string"
